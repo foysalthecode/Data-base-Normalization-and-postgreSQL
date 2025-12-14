@@ -26,7 +26,7 @@
     2NF
     3NF
 
-## 1NF Rules -->
+## 1NF Rules 📝
 
     - Atomic Values
     - Unique Column Names
@@ -35,26 +35,26 @@
     - that are of the same type
     - Determine Primary key
 
-## 2NF Rules
+## 2NF Rules 📝
 
     Must be in 1NF
     No non-key attribute
     should depend on part of a candidate key
 
-## 3NF Rules
+## 3NF Rules 📝
 
     Must be in 2NF
     Must not contain transitive dependency
 
-# POSTGRES
+# POSTGRES 🐘
 
 > The World's Most Advanced Open Source Relational Database Management System (DBMS / RDBMS)
 
-## WHY POSTGRES
+### WHY POSTGRES
 
-    Open Source
-    Scalability
-    Modern
-    Advanced Data Types
-    ACID Compliance
-    Indexing
+    🌍 Open Source
+    📈 Scalability
+    🚀 Modern
+    🧬 Advanced Data Types
+    🔒 ACID Compliance
+    ⚡ Indexing
